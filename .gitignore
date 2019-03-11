@@ -1,0 +1,8 @@
+# htmls
+.html
+
+# venv
+myvenv/
+
+# pycache
+__pycache__
